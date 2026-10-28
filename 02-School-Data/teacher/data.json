@@ -1,0 +1,39 @@
+{
+    "notices": [
+        {
+            "title": "School Reopening",
+            "date": "2026-03-01",
+            "content": "Classes resume next Monday."
+        }
+    ],
+    "assignments": [
+        {
+            "id": 1,
+            "title": "Math Homework 1",
+            "due": "2026-03-05",
+            "submissions": [
+                {
+                    "student": "Alice",
+                    "answer": "Algebra answers here"
+                }
+            ]
+        }
+    ],
+    "attendance_records": {
+        "2026-03-01": {
+            "Alice": "Present",
+            "Bob": "Absent"
+        },
+        "2026-03-02": {
+            "Alice": "Present",
+            "Bob": "Present"
+        }
+    },
+    "lectures": [
+        {
+            "title": "AI",
+            "day": "Fri",
+            "time": "12:00"
+        }
+    ]
+}

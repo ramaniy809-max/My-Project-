@@ -1,0 +1,13 @@
+{
+  "notices": [
+    {"title": "School Reopening", "date": "2026-03-01", "content": "Classes resume next Monday."}
+  ],
+  "assignments": [
+    {"id": 1, "title": "Math Homework 1", "due": "2026-03-05", "status": "Pending", "submission": ""}
+  ],
+  "attendance": [
+    {"date": "2026-03-01", "status": "Present"},
+    {"date": "2026-03-02", "status": "Present"}
+  ],
+  "timetable": "Monday: Math | Tuesday: Science | Wednesday: English"
+}
